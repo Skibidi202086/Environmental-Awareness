@@ -110,3 +110,17 @@
   padding: 10px;
   box-sizing: border-box;
 }
+
+.impacts {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+}
+.impacts p {
+  margin-bottom: 50px;
+}
+
+.impacts h2 {
+  margin-bottom: 20px;
+}
